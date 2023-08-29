@@ -1,4 +1,4 @@
-<h1 align="center">The Creative Crew</h1>
+<h1 align="center">Modern Interior</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://dc-my-team-page-brnn.vercel.app/">
+    <a href="https://dc-interior-consultant-nine.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="[https://github.com/arunpariyar/dc-my-team-page]">
+    <a href="https://github.com/arunpariyar/dc-interior-consultant">
       Solution
     </a>
     <span> | </span>
@@ -28,7 +28,7 @@
 
 ## Overview
 
-This is the team page for a fictional team that was built with vanilla css and sass.
+This is a fully responsive homepage for a fictional interior consultant company that was built with vanilla css and sass.
 
 ### Acknowledgement
 
